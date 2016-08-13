@@ -1,3 +1,4 @@
+config.py
 images
 images/*
 *.pyc
